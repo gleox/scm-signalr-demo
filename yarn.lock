@@ -4608,6 +4608,16 @@ javascript-stringify@^1.6.0:
   resolved "https://registry.npm.taobao.org/javascript-stringify/download/javascript-stringify-1.6.0.tgz#142d111f3a6e3dae8f4a9afd77d45855b5a9cce3"
   integrity sha1-FC0RHzpuPa6PSpr9d9RYVbWpzOM=
 
+jquery-deferred@0.3.1:
+  version "0.3.1"
+  resolved "https://registry.npm.taobao.org/jquery-deferred/download/jquery-deferred-0.3.1.tgz#596eca1caaff54f61b110962b23cafea74c35355"
+  integrity sha1-WW7KHKr/VPYbEQlisjyv6nTDU1U=
+
+jquery-param@0.2.0:
+  version "0.2.0"
+  resolved "https://registry.npm.taobao.org/jquery-param/download/jquery-param-0.2.0.tgz#55da8130428c50980eb516491c1b77cc78f0dcb1"
+  integrity sha1-VdqBMEKMUJgOtRZJHBt3zHjw3LE=
+
 js-levenshtein@^1.1.3:
   version "1.1.6"
   resolved "https://registry.npm.taobao.org/js-levenshtein/download/js-levenshtein-1.1.6.tgz#c6cee58eb3550372df8deb85fad5ce66ce01d59d"
@@ -6988,6 +6998,14 @@ signal-exit@^3.0.0, signal-exit@^3.0.2:
   version "3.0.2"
   resolved "https://registry.npm.taobao.org/signal-exit/download/signal-exit-3.0.2.tgz#b5fdc08f1287ea1178628e415e25132b73646c6d"
   integrity sha1-tf3AjxKH6hF4Yo5BXiUTK3NkbG0=
+
+signalr-no-jquery@^0.1.10:
+  version "0.1.10"
+  resolved "https://registry.npm.taobao.org/signalr-no-jquery/download/signalr-no-jquery-0.1.10.tgz#97dea8268d90701310f37b8bb04026d31ce4f545"
+  integrity sha1-l96oJo2QcBMQ83uLsEAm0xzk9UU=
+  dependencies:
+    jquery-deferred "0.3.1"
+    jquery-param "0.2.0"
 
 simple-swizzle@^0.2.2:
   version "0.2.2"
